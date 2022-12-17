@@ -1,0 +1,129 @@
+[
+    {
+        "id": 65706,
+        "barang": [
+            {
+                "kode_obat": "3",
+                "qty": 4,
+                "harga": 8000
+            }
+        ],
+        "harga_bayar": 400000
+    },
+    {
+        "id": 93872,
+        "barang": [
+            {
+                "kode_obat": "3",
+                "qty": 1,
+                "harga": 8000
+            },
+            {
+                "kode_obat": "2",
+                "qty": 4,
+                "harga": 12000
+            }
+        ],
+        "harga_bayar": 60000
+    },
+    {
+        "id": 40833,
+        "barang": [
+            {
+                "kode_obat": "3",
+                "qty": 2,
+                "harga": 8000
+            },
+            {
+                "kode_obat": "2",
+                "qty": 2,
+                "harga": 12000
+            }
+        ],
+        "harga_bayar": 50000
+    },
+    {
+        "id": 14477,
+        "barang": [
+            {
+                "kode_obat": "1",
+                "qty": 1,
+                "harga": 10000
+            },
+            {
+                "kode_obat": "1",
+                "qty": 1,
+                "harga": 10000
+            },
+            {
+                "kode_obat": "1",
+                "qty": 1,
+                "harga": 10000
+            }
+        ],
+        "harga_bayar": 40000
+    },
+    {
+        "id": 51768,
+        "barang": [
+            {
+                "kode_obat": "3",
+                "qty": 10,
+                "harga": 8000
+            },
+            {
+                "kode_obat": "4",
+                "qty": 2,
+                "harga": 5000
+            }
+        ],
+        "harga_bayar": 100000
+    },
+    {
+        "id": 65660,
+        "barang": [
+            {
+                "kode_obat": "3",
+                "qty": 1,
+                "harga": 8000
+            }
+        ],
+        "harga_bayar": 10000
+    },
+    {
+        "id": 28756,
+        "barang": [
+            {
+                "kode_obat": "3",
+                "qty": 1,
+                "nama": "Laserin",
+                "harga": 8000
+            },
+            {
+                "kode_obat": "4",
+                "qty": 1,
+                "nama": "Ultraflu",
+                "harga": 5000
+            }
+        ],
+        "harga_bayar": 15000
+    },
+    {
+        "id": 45832,
+        "barang": [
+            {
+                "kode_obat": "3",
+                "qty": 10,
+                "nama": "Laserin",
+                "harga": 8000
+            },
+            {
+                "kode_obat": "2",
+                "qty": 3,
+                "nama": "Paracetamol",
+                "harga": 12000
+            }
+        ],
+        "harga_bayar": 120000
+    }
+]

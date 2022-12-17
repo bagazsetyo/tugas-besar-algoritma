@@ -1,0 +1,23 @@
+[
+    {
+        "id": 2,
+        "penyakit": "demam",
+        "nama": "Paracetamol",
+        "harga": 12000,
+        "stok": 5
+    },
+    {
+        "id": 3,
+        "penyakit": "batuk",
+        "nama": "Laserin",
+        "harga": 8000,
+        "stok": 16
+    },
+    {
+        "id": 3296,
+        "penyakit": "Sakit Kepala",
+        "nama": "paramex",
+        "stok": 10,
+        "harga": 3000
+    }
+]

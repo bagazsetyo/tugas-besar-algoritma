@@ -1,0 +1,3 @@
+import autoload
+
+autoload.init()
